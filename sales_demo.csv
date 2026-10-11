@@ -1,0 +1,601 @@
+order_id,order_date,region,category,product,quantity,unit_price,discount_pct,customer_segment,sales_rep,payment_method,customer_rating,revenue
+ORD-1001,2024-08-09,North,Furniture,Executive Desk,7,650.0,10.0,Corporate,Bob Martinez,Bank Transfer,,4095.0
+ORD-1002,2024-07-18,North,Furniture,Executive Desk,5,650.0,20.0,Small Business,Alice Chen,Credit Card,4.0,2600.0
+ORD-1003,2024-07-17,South,Technology,4K Monitor,6,450.0,20.0,Consumer,Alice Chen,Bank Transfer,1.0,2160.0
+ORD-1004,2024-05-20,West,Furniture,Conference Table,7,850.0,5.0,Small Business,Emma Watson,PayPal,2.0,5652.5
+ORD-1005,2024-02-23, West,Technology,4K Monitor,3,450.0,10.0,Small Business,Bob Martinez,Bank Transfer,,1215.0
+ORD-1006,2024-10-19,West,Office Supplies,Desk Organizer,4,25.0,0.0,Small Business,Carolyn Vance,PayPal,5.0,100.0
+ORD-1007,2024-04-26,NORTH,Technology,Mechanical Keyboard,1,95.0,15.0,Corporate,Emma Watson,PayPal,1.0,80.75
+ORD-1008,2024-04-06,East,Furniture,Conference Table,7,850.0,20.0,Corporate,Alice Chen,Credit Card,3.0,4760.0
+ORD-1009,2024-08-13,East,Furniture,Ergonomic Chair,4,320.0,0.0,Corporate,Alice Chen,Purchase Order,3.0,1280.0
+ORD-1010,2024-08-30,east,Office Supplies,Notebook Set,2,18.0,5.0,Small Business,Carolyn Vance,Bank Transfer,4.0,34.2
+ORD-1011,2024-06-28,North,Furniture,Filing Cabinet,7,180.0,20.0,Consumer,Bob Martinez,Bank Transfer,5.0,1008.0
+ORD-1012,2024-09-15,West,Technology,Mechanical Keyboard,5,95.0,10.0,Consumer,Emma Watson,Bank Transfer,4.0,427.5
+ORD-1013,2024-05-24,North,Furniture,Filing Cabinet,5,180.0,5.0,Corporate,Carolyn Vance,Purchase Order,2.0,855.0
+ORD-1014,2024-07-04,South,Office Supplies,Desk Organizer,5,25.0,20.0,Consumer,Carolyn Vance,Bank Transfer,,100.0
+ORD-1015,2024-06-11,West,Furniture,Bookshelf,1,140.0,15.0,Corporate,Carolyn Vance,Bank Transfer,4.0,119.0
+ORD-1016,2024-07-21,East,Technology,Noise-Canceling Headphones,3,180.0,20.0,Small Business,Emma Watson,Purchase Order,4.0,432.0
+ORD-1017,2024-06-17,South,Office Supplies,Gel Pen Pack,3,12.0,20.0,Small Business,Alice Chen,Credit Card,2.0,28.8
+ORD-1018,2024-08-03,south,Technology,4K Monitor,7,450.0,15.0,Consumer,Alice Chen,Purchase Order,1.0,2677.5
+ORD-1019,2024-12-09,East,Office Supplies,Heavy-Duty Stapler,4,30.0,20.0,Corporate,Alice Chen,PayPal,2.0,96.0
+ORD-1020,2024-07-27,North,Furniture,Filing Cabinet,6,180.0,10.0,Small Business,Bob Martinez,Purchase Order,2.0,972.0
+ORD-1021,2024-06-10,South,Technology,Wireless Mouse,5,35.0,20.0,Corporate,Carolyn Vance,Bank Transfer,3.0,140.0
+ORD-1022,2024-03-15,South,Technology,Wireless Mouse,5,35.0,20.0,Consumer,Alice Chen,PayPal,3.0,140.0
+ORD-1023,2024-06-18,North,Office Supplies,Desk Organizer,4,25.0,10.0,Small Business,Bob Martinez,Credit Card,3.0,90.0
+ORD-1024,2024-04-18,NORTH,Technology,Noise-Canceling Headphones,7,180.0,0.0,Consumer,David Smith,Credit Card,,1260.0
+ORD-1025,2024-09-01,South,Furniture,Ergonomic Chair,1,320.0,15.0,Consumer,Bob Martinez,PayPal,5.0,272.0
+ORD-1026,2024-09-30,West,Furniture,Conference Table,7,850.0,5.0,Consumer,Bob Martinez,PayPal,3.0,5652.5
+ORD-1027,2024-12-11,West,Office Supplies,Standing Mat,6,65.0,20.0,Small Business,Alice Chen,Bank Transfer,,312.0
+ORD-1028,2024-01-26,East,Technology,Laptop Pro,5,1200.0,0.0,Consumer,Emma Watson,Bank Transfer,3.0,6000.0
+ORD-1029,2024-12-12,WEST,Furniture,Ergonomic Chair,7,320.0,0.0,Corporate,Alice Chen,Credit Card,3.0,2240.0
+ORD-1030,2024-04-24,south,Office Supplies,Desk Organizer,5,25.0,10.0,Consumer,David Smith,Bank Transfer,4.0,112.5
+ORD-1031,2024-08-25,West,Furniture,Ergonomic Chair,5,320.0,5.0,Small Business,David Smith,Bank Transfer,4.0,1520.0
+ORD-1032,2024-09-11,West,Technology,Laptop Pro,1,1200.0,10.0,Small Business,David Smith,Purchase Order,3.0,1080.0
+ORD-1033,2024-11-29,North,Furniture,Executive Desk,4,650.0,0.0,Small Business,Carolyn Vance,Credit Card,1.0,2600.0
+ORD-1034,2024-10-13,West,Technology,4K Monitor,9,450.0,15.0,Corporate,David Smith,Bank Transfer,,3442.5
+ORD-1035,2024-08-21,south,Office Supplies,Notebook Set,4,18.0,0.0,Small Business,Emma Watson,Credit Card,5.0,72.0
+ORD-1036,2024-10-21,NORTH,Technology,Noise-Canceling Headphones,2,180.0,5.0,Corporate,David Smith,Purchase Order,3.0,342.0
+ORD-1037,2024-09-30,west,Office Supplies,Gel Pen Pack,2,12.0,0.0,Corporate,David Smith,Credit Card,5.0,24.0
+ORD-1038,2024-08-21,West,Office Supplies,Standing Mat,3,65.0,10.0,Small Business,Emma Watson,Purchase Order,3.0,175.5
+ORD-1039,2024-07-09, East ,Technology,4K Monitor,6,450.0,5.0,Corporate,Emma Watson,Credit Card,5.0,2565.0
+ORD-1040,2024-09-12,North,Furniture,Filing Cabinet,4,180.0,0.0,Consumer,David Smith,Bank Transfer,5.0,720.0
+ORD-1041,2024-11-13,West,Technology,Noise-Canceling Headphones,4,180.0,5.0,Corporate,Emma Watson,Credit Card,4.0,684.0
+ORD-1042,2024-01-24,West,Furniture,Ergonomic Chair,4,320.0,0.0,Consumer,Bob Martinez,Credit Card,5.0,1280.0
+ORD-1043,2024-03-30,West,Furniture,Executive Desk,900,650.0,20.0,Consumer,Emma Watson,PayPal,5.0,468000.0
+ORD-1044,2024-03-10,East,Office Supplies,Gel Pen Pack,3,12.0,5.0,Small Business,David Smith,Bank Transfer,4.0,34.2
+ORD-1045,2024-05-09,West,Furniture,Filing Cabinet,6,180.0,10.0,Corporate,Alice Chen,Purchase Order,5.0,972.0
+ORD-1046,2024-05-31,North,Furniture,Conference Table,1,850.0,0.0,Consumer,Bob Martinez,PayPal,4.0,850.0
+ORD-1047,2024-03-29,NORTH,Technology,Wireless Mouse,3,35.0,5.0,Small Business,Carolyn Vance,Bank Transfer,5.0,99.75
+ORD-1048,2024-02-20,east,Office Supplies,Heavy-Duty Stapler,6,30.0,20.0,Consumer,Emma Watson,Credit Card,5.0,144.0
+ORD-1049,2024-03-15,East,Furniture,Conference Table,1,850.0,0.0,Corporate,Carolyn Vance,Credit Card,4.0,850.0
+ORD-1050,2024-04-20,South,Technology,Noise-Canceling Headphones,4,180.0,10.0,Small Business,Emma Watson,Bank Transfer,3.0,648.0
+ORD-1051,2024-12-03,West,Furniture,Filing Cabinet,11,180.0,10.0,Consumer,David Smith,PayPal,,1782.0
+ORD-1052,2024-03-06,West,Technology,Laptop Pro,6,1200.0,10.0,Corporate,Alice Chen,PayPal,2.0,6480.0
+ORD-1053,2024-05-28,South,Technology,Wireless Mouse,1,35.0,15.0,Consumer,David Smith,Credit Card,2.0,29.75
+ORD-1054,2024-03-07,South,Technology,Laptop Pro,2,1200.0,20.0,Corporate,Carolyn Vance,Bank Transfer,5.0,1920.0
+ORD-1055,2024-08-15,North,Office Supplies,Gel Pen Pack,1,12.0,10.0,Small Business,Alice Chen,PayPal,4.0,10.8
+ORD-1056,2024-12-08,EAST,Technology,4K Monitor,6,450.0,20.0,Small Business,Emma Watson,Bank Transfer,5.0,2160.0
+ORD-1057,2024-11-09,South,Technology,4K Monitor,7,450.0,15.0,Corporate,Bob Martinez,PayPal,4.0,2677.5
+ORD-1058,2024-11-29,West,Office Supplies,Gel Pen Pack,8,12.0,0.0,Small Business,Alice Chen,Purchase Order,4.0,96.0
+ORD-1059,2024-05-26,West,Technology,4K Monitor,5,450.0,10.0,Small Business,Bob Martinez,Bank Transfer,3.0,2025.0
+ORD-1060,2024-10-16,West,Technology,4K Monitor,8,450.0,10.0,Corporate,Carolyn Vance,PayPal,2.0,3240.0
+ORD-1061,2024-10-22,west,Furniture,Conference Table,4,850.0,20.0,Small Business,Alice Chen,Credit Card,4.0,2720.0
+ORD-1062,2024-09-17,East,Office Supplies,Gel Pen Pack,7,12.0,0.0,Corporate,Emma Watson,Purchase Order,4.0,84.0
+ORD-1063,2024-10-09,West,Office Supplies,Standing Mat,11,65.0,20.0,Corporate,David Smith,Bank Transfer,4.0,572.0
+ORD-1064,2024-06-08,West,Office Supplies,Desk Organizer,7,25.0,0.0,Consumer,Emma Watson,Bank Transfer,3.0,175.0
+ORD-1065,2024-12-01, West,Office Supplies,Notebook Set,9,18.0,10.0,Consumer,Carolyn Vance,Credit Card,4.0,145.8
+ORD-1066,2024-06-30,East,Furniture,Filing Cabinet,3,180.0,15.0,Small Business,David Smith,PayPal,3.0,459.0
+ORD-1067,2024-12-14,West,Furniture,Ergonomic Chair,7,320.0,15.0,Consumer,Bob Martinez,PayPal,2.0,1904.0
+ORD-1068,2024-01-31,North,Office Supplies,Heavy-Duty Stapler,5,30.0,10.0,Small Business,Bob Martinez,Purchase Order,4.0,135.0
+ORD-1069,2024-10-25,West,Furniture,Conference Table,7,850.0,15.0,Small Business,Bob Martinez,Purchase Order,4.0,5057.5
+ORD-1070,2024-03-14,North,Furniture,Ergonomic Chair,2,320.0,10.0,Consumer,Emma Watson,PayPal,3.0,576.0
+ORD-1071,2024-03-31,EAST,Technology,4K Monitor,2,450.0,5.0,Corporate,Bob Martinez,Credit Card,1.0,855.0
+ORD-1072,2024-10-07,North,Technology,4K Monitor,4,450.0,15.0,Small Business,Emma Watson,Bank Transfer,2.0,1530.0
+ORD-1073,2024-05-13,West,Furniture,Bookshelf,4,140.0,15.0,Corporate,Bob Martinez,Credit Card,4.0,476.0
+ORD-1074,2024-09-30,South,Technology,Mechanical Keyboard,2,95.0,5.0,Consumer,Emma Watson,Purchase Order,4.0,180.5
+ORD-1075,2024-07-28,South,Technology,Noise-Canceling Headphones,7,180.0,0.0,Small Business,Bob Martinez,Purchase Order,2.0,1260.0
+ORD-1076,2024-08-11,EAST,Furniture,Conference Table,5,850.0,15.0,Consumer,Emma Watson,Purchase Order,5.0,3612.5
+ORD-1077,2024-11-05,West,Furniture,Bookshelf,10,140.0,15.0,Small Business,Bob Martinez,PayPal,5.0,1190.0
+ORD-1078,2024-05-11,South,Furniture,Bookshelf,7,140.0,,Small Business,Alice Chen,PayPal,5.0,882.0
+ORD-1079,2024-08-20,east,Technology,Wireless Mouse,5,35.0,10.0,Consumer,Alice Chen,Bank Transfer,5.0,157.5
+ORD-1080,2024-05-15,West,Technology,4K Monitor,1,450.0,5.0,Consumer,Bob Martinez,Credit Card,3.0,427.5
+ORD-1081,2024-03-13,East,Office Supplies,Notebook Set,4,18.0,20.0,Small Business,David Smith,Credit Card,5.0,57.6
+ORD-1082,2024-04-27,West,Technology,Mechanical Keyboard,4,95.0,20.0,Consumer,Alice Chen,Purchase Order,4.0,304.0
+ORD-1083,2024-10-12,East,Office Supplies,Desk Organizer,3,25.0,15.0,Small Business,Emma Watson,Bank Transfer,4.0,63.75
+ORD-1084,2024-11-26,West,Office Supplies,Gel Pen Pack,7,12.0,15.0,Corporate,David Smith,PayPal,4.0,71.4
+ORD-1085,2024-04-19,South,Furniture,Bookshelf,3,140.0,15.0,Corporate,Emma Watson,Credit Card,5.0,357.0
+ORD-1086,2024-03-30,North,Office Supplies,Heavy-Duty Stapler,2,30.0,0.0,Consumer,David Smith,Bank Transfer,4.0,60.0
+ORD-1087,2024-04-19,North,Office Supplies,Gel Pen Pack,5,12.0,10.0,Small Business,Carolyn Vance,Bank Transfer,4.0,54.0
+ORD-1088,2024-07-20,East,Office Supplies,Standing Mat,5,65.0,15.0,Small Business,David Smith,PayPal,4.0,276.25
+ORD-1089,2024-04-20,North,Technology,Mechanical Keyboard,3,95.0,20.0,Corporate,Carolyn Vance,Bank Transfer,3.0,228.0
+ORD-1090,2024-07-17,north ,Furniture,Executive Desk,5,650.0,0.0,Corporate,Bob Martinez,Credit Card,1.0,3250.0
+ORD-1091,2024-09-30,south,Furniture,Ergonomic Chair,1,320.0,5.0,Small Business,Alice Chen,Bank Transfer,5.0,304.0
+ORD-1092,2024-10-01,south,Office Supplies,Standing Mat,1,65.0,20.0,Consumer,Alice Chen,Bank Transfer,4.0,52.0
+ORD-1093,2024-05-03,north ,Office Supplies,Desk Organizer,4,25.0,10.0,Consumer,David Smith,Purchase Order,5.0,90.0
+ORD-1094,2024-07-31,North,Furniture,Ergonomic Chair,6,320.0,20.0,Consumer,Bob Martinez,Credit Card,5.0,1536.0
+ORD-1095,2024-11-25,North,Furniture,Filing Cabinet,7,180.0,20.0,Corporate,Carolyn Vance,Purchase Order,4.0,1008.0
+ORD-1096,2024-08-27,north ,Furniture,Filing Cabinet,5,180.0,20.0,Consumer,Carolyn Vance,Credit Card,4.0,720.0
+ORD-1097,2024-06-26,North,Office Supplies,Notebook Set,6,18.0,15.0,Small Business,David Smith,Bank Transfer,4.0,91.8
+ORD-1098,2024-07-11,east,Office Supplies,Gel Pen Pack,4,12.0,20.0,Consumer,David Smith,Purchase Order,4.0,38.4
+ORD-1099,2024-03-17, East ,Office Supplies,Heavy-Duty Stapler,4,30.0,10.0,Corporate,Alice Chen,PayPal,,108.0
+ORD-1100,2024-05-13,west,Office Supplies,Gel Pen Pack,1,12.0,20.0,Consumer,David Smith,PayPal,4.0,9.6
+ORD-1101,2024-07-05,East,Technology,Mechanical Keyboard,6,95.0,5.0,Small Business,Bob Martinez,PayPal,,541.5
+ORD-1102,2024-08-20,East,Office Supplies,Standing Mat,2,65.0,20.0,Consumer,Carolyn Vance,Credit Card,2.0,104.0
+ORD-1103,2024-08-27,North,Furniture,Ergonomic Chair,6,320.0,5.0,Consumer,David Smith,Purchase Order,5.0,1824.0
+ORD-1104,2024-12-06,WEST,Furniture,Ergonomic Chair,7,320.0,15.0,Corporate,Alice Chen,PayPal,5.0,1904.0
+ORD-1105,2024-12-21,East,Technology,Mechanical Keyboard,1,95.0,20.0,Small Business,David Smith,PayPal,,76.0
+ORD-1106,2024-11-26,West,Office Supplies,Heavy-Duty Stapler,8,30.0,15.0,Small Business,Carolyn Vance,PayPal,4.0,204.0
+ORD-1107,2024-10-18,East,Technology,Laptop Pro,5,1200.0,0.0,Consumer,Emma Watson,Bank Transfer,5.0,6000.0
+ORD-1108,2024-10-16,East,Technology,4K Monitor,6,450.0,20.0,Consumer,Emma Watson,PayPal,3.0,2160.0
+ORD-1109,2024-02-14, East ,Technology,4K Monitor,2,450.0,5.0,Small Business,Bob Martinez,PayPal,4.0,855.0
+ORD-1110,2024-03-08,South,Technology,Noise-Canceling Headphones,2,180.0,10.0,Corporate,Alice Chen,PayPal,4.0,324.0
+ORD-1111,2024-02-13,West,Furniture,Ergonomic Chair,6,320.0,0.0,Corporate,Emma Watson,PayPal,5.0,1920.0
+ORD-1112,2024-12-06,West,Office Supplies,Notebook Set,9,18.0,5.0,Corporate,Carolyn Vance,Purchase Order,5.0,153.9
+ORD-1113,2024-12-14,West,Technology,Laptop Pro,4,1200.0,0.0,Consumer,Alice Chen,Bank Transfer,4.0,4800.0
+ORD-1114,2024-10-18,North,Technology,Noise-Canceling Headphones,3,180.0,5.0,Corporate,Emma Watson,Purchase Order,2.0,513.0
+ORD-1115,2024-05-04,South,Furniture,Conference Table,6,850.0,20.0,Small Business,David Smith,Purchase Order,4.0,4080.0
+ORD-1116,2024-07-19,West,Office Supplies,Heavy-Duty Stapler,4,30.0,10.0,Consumer,Emma Watson,Credit Card,4.0,108.0
+ORD-1117,2024-12-18,South,Furniture,Executive Desk,6,650.0,5.0,Small Business,Alice Chen,Bank Transfer,4.0,3705.0
+ORD-1118,2024-08-08,North,Technology,4K Monitor,3,450.0,5.0,Corporate,David Smith,Purchase Order,2.0,1282.5
+ORD-1119,2024-01-29,west,Furniture,Conference Table,3,850.0,10.0,Corporate,Bob Martinez,PayPal,4.0,2295.0
+ORD-1120,2024-08-08,West,Furniture,Filing Cabinet,3,180.0,0.0,Consumer,Bob Martinez,PayPal,1.0,540.0
+ORD-1121,2024-10-30,south,Furniture,Conference Table,1,850.0,15.0,Corporate,Emma Watson,Bank Transfer,4.0,722.5
+ORD-1122,2024-02-15,East,Furniture,Ergonomic Chair,1,320.0,5.0,Corporate,Alice Chen,Bank Transfer,4.0,304.0
+ORD-1123,2024-06-09,east,Office Supplies,Heavy-Duty Stapler,7,30.0,,Corporate,David Smith,PayPal,4.0,178.5
+ORD-1124,2024-08-27,East,Furniture,Bookshelf,1,140.0,20.0,Consumer,David Smith,Purchase Order,3.0,112.0
+ORD-1125,2024-11-13,West,Technology,Noise-Canceling Headphones,10,180.0,15.0,Consumer,Carolyn Vance,PayPal,,1530.0
+ORD-1126,2024-10-17,West,Technology,Laptop Pro,10,1200.0,20.0,Consumer,Alice Chen,PayPal,5.0,9600.0
+ORD-1127,2024-06-25,SOUTH ,Furniture,Executive Desk,4,650.0,15.0,Consumer,David Smith,PayPal,2.0,2210.0
+ORD-1128,2024-04-18,West,Technology,Noise-Canceling Headphones,7,180.0,15.0,Corporate,David Smith,PayPal,2.0,1071.0
+ORD-1129,2024-02-25,EAST,Office Supplies,Standing Mat,6,65.0,0.0,Corporate,Carolyn Vance,Purchase Order,3.0,390.0
+ORD-1130,2024-05-28,East,Furniture,Bookshelf,4,140.0,15.0,Consumer,Alice Chen,Purchase Order,4.0,476.0
+ORD-1131,2024-10-05,West,Technology,Wireless Mouse,8,35.0,0.0,Small Business,Emma Watson,Credit Card,4.0,280.0
+ORD-1132,2024-03-09,West,Furniture,Conference Table,3,850.0,15.0,Corporate,Bob Martinez,PayPal,4.0,2167.5
+ORD-1133,2024-11-09,North,Furniture,Bookshelf,3,140.0,,Small Business,Emma Watson,Bank Transfer,5.0,399.0
+ORD-1134,2024-09-11,West,Office Supplies,Notebook Set,6,18.0,0.0,Corporate,Emma Watson,Bank Transfer,3.0,108.0
+ORD-1135,2024-11-17,West,Furniture,Ergonomic Chair,10,320.0,0.0,Consumer,David Smith,Credit Card,5.0,3200.0
+ORD-1136,2024-01-03,West,Technology,Laptop Pro,5,1200.0,0.0,Consumer,Bob Martinez,Purchase Order,5.0,6000.0
+ORD-1137,2024-03-31,East,Furniture,Filing Cabinet,6,180.0,15.0,Small Business,David Smith,Bank Transfer,5.0,918.0
+ORD-1138,2024-03-03,South,Office Supplies,Heavy-Duty Stapler,6,30.0,15.0,Corporate,Emma Watson,Bank Transfer,5.0,153.0
+ORD-1139,2024-10-02,West,Technology,Wireless Mouse,8,35.0,10.0,Consumer,Carolyn Vance,Credit Card,5.0,252.0
+ORD-1140,2024-12-08,West,Office Supplies,Standing Mat,6,65.0,5.0,Small Business,Emma Watson,Purchase Order,3.0,370.5
+ORD-1141,2024-07-25, West,Office Supplies,Standing Mat,3,65.0,15.0,Small Business,Bob Martinez,Bank Transfer,5.0,165.75
+ORD-1142,2024-03-24,south,Furniture,Bookshelf,6,140.0,15.0,Corporate,Carolyn Vance,Purchase Order,3.0,714.0
+ORD-1143,2024-03-23,West,Furniture,Bookshelf,3,140.0,5.0,Small Business,Alice Chen,Bank Transfer,4.0,399.0
+ORD-1144,2024-07-12,East,Furniture,Conference Table,7,850.0,0.0,Small Business,Alice Chen,Purchase Order,5.0,5950.0
+ORD-1145,2024-11-11,West,Technology,4K Monitor,5,450.0,5.0,Corporate,David Smith,PayPal,5.0,2137.5
+ORD-1146,2024-11-22,North,Office Supplies,Heavy-Duty Stapler,5,30.0,10.0,Consumer,Emma Watson,Purchase Order,2.0,135.0
+ORD-1147,2024-09-13,North,Office Supplies,Notebook Set,5,18.0,20.0,Corporate,Bob Martinez,PayPal,3.0,72.0
+ORD-1148,2024-05-23,West,Technology,Laptop Pro,1,1200.0,0.0,Consumer,Alice Chen,Purchase Order,5.0,1200.0
+ORD-1149,2024-11-03,North,Technology,Wireless Mouse,3,35.0,10.0,Corporate,Carolyn Vance,PayPal,4.0,94.5
+ORD-1150,2024-06-25,South,Office Supplies,Notebook Set,1,18.0,5.0,Consumer,David Smith,Bank Transfer,3.0,17.1
+ORD-1151,2024-03-20,North,Technology,4K Monitor,3,450.0,20.0,Small Business,Emma Watson,Bank Transfer,4.0,1080.0
+ORD-1152,2024-10-27,west,Office Supplies,Heavy-Duty Stapler,5,30.0,15.0,Consumer,Carolyn Vance,Purchase Order,3.0,127.5
+ORD-1153,2024-08-12,West,Office Supplies,Desk Organizer,7,25.0,10.0,Consumer,Emma Watson,Bank Transfer,4.0,157.5
+ORD-1154,2024-04-11,East,Technology,Mechanical Keyboard,5,95.0,20.0,Small Business,David Smith,PayPal,3.0,380.0
+ORD-1155,2024-11-18,West,Office Supplies,Standing Mat,8,65.0,15.0,Small Business,Alice Chen,Bank Transfer,,442.0
+ORD-1156,2024-09-05,East,Office Supplies,Heavy-Duty Stapler,4,30.0,20.0,Small Business,Carolyn Vance,Credit Card,4.0,96.0
+ORD-1157,2024-04-14,East,Furniture,Bookshelf,2,140.0,0.0,Consumer,Alice Chen,Purchase Order,1.0,280.0
+ORD-1158,2024-08-08,east,Office Supplies,Gel Pen Pack,2,12.0,5.0,Consumer,Bob Martinez,PayPal,3.0,22.8
+ORD-1159,2024-03-10,North,Furniture,Ergonomic Chair,7,320.0,0.0,Small Business,David Smith,Credit Card,4.0,2240.0
+ORD-1160,2024-09-26,South,Furniture,Filing Cabinet,5,180.0,0.0,Small Business,Carolyn Vance,Purchase Order,2.0,900.0
+ORD-1161,2024-05-31,South,Technology,4K Monitor,4,450.0,20.0,Small Business,Emma Watson,PayPal,4.0,1440.0
+ORD-1162,2024-03-02,West,Technology,Wireless Mouse,7,35.0,10.0,Consumer,Carolyn Vance,Credit Card,3.0,220.5
+ORD-1163,2024-10-01, West,Office Supplies,Desk Organizer,10,25.0,5.0,Consumer,David Smith,PayPal,,237.5
+ORD-1164,2024-12-14,West,Technology,Mechanical Keyboard,7,95.0,20.0,Corporate,David Smith,PayPal,5.0,532.0
+ORD-1165,2024-12-27,EAST,Furniture,Filing Cabinet,1,180.0,0.0,Consumer,Bob Martinez,Purchase Order,3.0,180.0
+ORD-1166,2024-08-10,east,Technology,Noise-Canceling Headphones,3,180.0,20.0,Corporate,Alice Chen,Purchase Order,4.0,432.0
+ORD-1167,2024-10-24,North,Furniture,Filing Cabinet,2,180.0,5.0,Corporate,Alice Chen,PayPal,5.0,342.0
+ORD-1168,2024-12-18,WEST,Office Supplies,Desk Organizer,5,25.0,20.0,Corporate,David Smith,Purchase Order,3.0,100.0
+ORD-1169,2024-04-20,West,Office Supplies,Heavy-Duty Stapler,5,30.0,20.0,Consumer,Bob Martinez,Purchase Order,4.0,120.0
+ORD-1170,2024-12-26,west,Furniture,Executive Desk,7,650.0,10.0,Corporate,Carolyn Vance,Bank Transfer,4.0,4095.0
+ORD-1171,2024-04-18,South,Office Supplies,Notebook Set,7,18.0,10.0,Corporate,Carolyn Vance,PayPal,5.0,113.4
+ORD-1172,2024-08-05,East,Technology,Mechanical Keyboard,5,95.0,5.0,Corporate,David Smith,Credit Card,4.0,451.25
+ORD-1173,2024-10-25,North,Furniture,Ergonomic Chair,1,320.0,0.0,Small Business,Bob Martinez,Bank Transfer,1.0,320.0
+ORD-1174,2024-06-01,North,Furniture,Ergonomic Chair,2,320.0,20.0,Corporate,Emma Watson,Bank Transfer,3.0,512.0
+ORD-1175,2024-08-16,South,Technology,Wireless Mouse,6,35.0,,Corporate,Carolyn Vance,Bank Transfer,4.0,168.0
+ORD-1176,2024-12-13,West,Technology,Noise-Canceling Headphones,9,180.0,5.0,Corporate,Alice Chen,Bank Transfer,5.0,1539.0
+ORD-1177,2024-03-02,South,Technology,Wireless Mouse,7,35.0,20.0,Small Business,Alice Chen,Bank Transfer,5.0,196.0
+ORD-1178,2024-02-20,South,Office Supplies,Desk Organizer,1,25.0,15.0,Consumer,Alice Chen,Credit Card,4.0,21.25
+ORD-1179,2024-04-07,EAST,Office Supplies,Notebook Set,1,18.0,20.0,Consumer,Alice Chen,Purchase Order,5.0,14.4
+ORD-1180,2024-04-11,North,Furniture,Ergonomic Chair,7,320.0,20.0,Small Business,David Smith,Credit Card,5.0,1792.0
+ORD-1181,2024-06-22,WEST,Technology,Mechanical Keyboard,6,95.0,15.0,Consumer,Alice Chen,Purchase Order,3.0,484.5
+ORD-1182,2024-05-14,north ,Furniture,Bookshelf,7,140.0,0.0,Small Business,Emma Watson,Bank Transfer,4.0,980.0
+ORD-1183,2024-06-11,East,Technology,4K Monitor,5,450.0,20.0,Consumer,Emma Watson,PayPal,4.0,1800.0
+ORD-1184,2024-06-12,East,Office Supplies,Heavy-Duty Stapler,4,30.0,15.0,Consumer,Emma Watson,Purchase Order,,102.0
+ORD-1185,2024-03-21,South,Technology,Laptop Pro,5,1200.0,15.0,Small Business,Bob Martinez,Purchase Order,4.0,5100.0
+ORD-1186,2024-10-19,West,Office Supplies,Notebook Set,5,18.0,0.0,Small Business,David Smith,PayPal,5.0,90.0
+ORD-1187,2024-05-27,East,Furniture,Filing Cabinet,6,180.0,5.0,Consumer,David Smith,Credit Card,4.0,1026.0
+ORD-1188,2024-08-29,North,Technology,Laptop Pro,1,1200.0,15.0,Corporate,Carolyn Vance,Bank Transfer,3.0,1020.0
+ORD-1189,2024-12-19,East,Furniture,Executive Desk,3,650.0,0.0,Small Business,Carolyn Vance,Purchase Order,4.0,1950.0
+ORD-1190,2024-06-01, East ,Furniture,Executive Desk,750,650.0,20.0,Small Business,Carolyn Vance,Credit Card,3.0,390000.0
+ORD-1191,2024-07-26,South,Furniture,Conference Table,1,850.0,5.0,Consumer,David Smith,Bank Transfer,,807.5
+ORD-1192,2024-09-04,East,Technology,Wireless Mouse,6,35.0,0.0,Small Business,Emma Watson,Bank Transfer,2.0,210.0
+ORD-1193,2024-12-11,North,Office Supplies,Heavy-Duty Stapler,5,30.0,20.0,Consumer,Carolyn Vance,Credit Card,5.0,120.0
+ORD-1194,2024-09-09,East,Technology,Wireless Mouse,6,35.0,10.0,Small Business,Alice Chen,Bank Transfer,1.0,189.0
+ORD-1195,2024-08-10,West,Technology,Noise-Canceling Headphones,2,180.0,0.0,Corporate,Alice Chen,Credit Card,2.0,360.0
+ORD-1196,2024-05-18,South,Furniture,Conference Table,4,850.0,15.0,Small Business,David Smith,PayPal,5.0,2890.0
+ORD-1197,2024-07-31,East,Technology,Wireless Mouse,6,35.0,10.0,Consumer,Emma Watson,Credit Card,2.0,189.0
+ORD-1198,2024-02-15,South,Technology,4K Monitor,7,450.0,,Corporate,Alice Chen,PayPal,3.0,2520.0
+ORD-1199,2024-04-27,West,Office Supplies,Notebook Set,2,18.0,20.0,Small Business,David Smith,PayPal,4.0,28.8
+ORD-1200,2024-09-12,North,Technology,Noise-Canceling Headphones,1,180.0,10.0,Small Business,Alice Chen,PayPal,4.0,162.0
+ORD-1201,2024-12-15, East ,Furniture,Conference Table,2,850.0,0.0,Corporate,David Smith,Credit Card,5.0,1700.0
+ORD-1202,2024-11-29,WEST,Technology,4K Monitor,4,450.0,5.0,Corporate,Carolyn Vance,PayPal,2.0,1710.0
+ORD-1203,2024-07-30,North,Office Supplies,Desk Organizer,1,25.0,15.0,Consumer,David Smith,Bank Transfer,4.0,21.25
+ORD-1204,2024-05-08,South,Technology,Mechanical Keyboard,3,95.0,20.0,Consumer,Carolyn Vance,Credit Card,5.0,228.0
+ORD-1205,2024-06-10, West,Office Supplies,Desk Organizer,1,25.0,0.0,Small Business,Alice Chen,PayPal,5.0,25.0
+ORD-1206,2024-08-29,West,Furniture,Bookshelf,1,140.0,15.0,Small Business,Alice Chen,Purchase Order,5.0,119.0
+ORD-1207,2024-08-10,South,Technology,Wireless Mouse,1,35.0,20.0,Small Business,Carolyn Vance,Credit Card,3.0,28.0
+ORD-1208,2024-08-23,South,Office Supplies,Desk Organizer,5,25.0,15.0,Consumer,David Smith,Credit Card,4.0,106.25
+ORD-1209,2024-05-02,East,Office Supplies,Standing Mat,1,65.0,5.0,Small Business,Bob Martinez,Credit Card,4.0,61.75
+ORD-1210,2024-07-09,South,Furniture,Executive Desk,5,650.0,10.0,Small Business,Bob Martinez,Bank Transfer,2.0,2925.0
+ORD-1211,2024-10-04,west,Technology,4K Monitor,10,450.0,5.0,Consumer,Bob Martinez,Credit Card,4.0,4275.0
+ORD-1212,2024-11-15,WEST,Technology,Mechanical Keyboard,4,95.0,20.0,Consumer,Emma Watson,PayPal,4.0,304.0
+ORD-1213,2024-10-11,West,Furniture,Filing Cabinet,4,180.0,0.0,Small Business,David Smith,PayPal,1.0,720.0
+ORD-1214,2024-06-24,North,Office Supplies,Heavy-Duty Stapler,3,30.0,10.0,Consumer,Alice Chen,PayPal,2.0,81.0
+ORD-1215,2024-12-03,West,Office Supplies,Notebook Set,11,18.0,10.0,Small Business,Alice Chen,Credit Card,3.0,178.2
+ORD-1216,2024-03-24,West,Furniture,Conference Table,1,850.0,15.0,Consumer,Emma Watson,Credit Card,2.0,722.5
+ORD-1217,2024-04-24,South,Office Supplies,Heavy-Duty Stapler,1,30.0,10.0,Consumer,David Smith,Bank Transfer,,27.0
+ORD-1218,2024-11-06,West,Technology,Mechanical Keyboard,3,95.0,10.0,Consumer,Alice Chen,Bank Transfer,4.0,256.5
+ORD-1219,2024-02-02,west,Technology,4K Monitor,7,450.0,15.0,Consumer,Emma Watson,Bank Transfer,5.0,2677.5
+ORD-1220,2024-08-29,East,Office Supplies,Standing Mat,1,65.0,15.0,Small Business,Carolyn Vance,Credit Card,5.0,55.25
+ORD-1221,2024-09-26,north ,Furniture,Filing Cabinet,3,180.0,10.0,Corporate,Emma Watson,Purchase Order,4.0,486.0
+ORD-1222,2024-08-30,South,Office Supplies,Standing Mat,2,65.0,10.0,Corporate,Emma Watson,Bank Transfer,1.0,117.0
+ORD-1223,2024-08-30,West,Office Supplies,Standing Mat,4,65.0,5.0,Consumer,Alice Chen,PayPal,5.0,247.0
+ORD-1224,2024-10-31, East ,Furniture,Bookshelf,2,140.0,5.0,Consumer,Emma Watson,Credit Card,,266.0
+ORD-1225,2024-12-28,North,Furniture,Bookshelf,4,140.0,10.0,Small Business,Bob Martinez,Bank Transfer,4.0,504.0
+ORD-1226,2024-02-26,South,Office Supplies,Notebook Set,3,18.0,5.0,Corporate,Bob Martinez,Credit Card,3.0,51.3
+ORD-1227,2024-12-01,north ,Office Supplies,Desk Organizer,7,25.0,10.0,Consumer,Bob Martinez,Purchase Order,4.0,157.5
+ORD-1228,2024-11-25, West,Technology,4K Monitor,10,450.0,20.0,Corporate,David Smith,Credit Card,3.0,3600.0
+ORD-1229,2024-11-19,South,Office Supplies,Standing Mat,4,65.0,15.0,Consumer,Carolyn Vance,Purchase Order,2.0,221.0
+ORD-1230,2024-05-15,South,Technology,Noise-Canceling Headphones,6,180.0,10.0,Small Business,Bob Martinez,PayPal,4.0,972.0
+ORD-1231,2024-05-14,West,Furniture,Conference Table,5,850.0,15.0,Small Business,David Smith,Purchase Order,,3612.5
+ORD-1232,2024-07-10,South,Technology,4K Monitor,4,450.0,10.0,Corporate,David Smith,PayPal,,1620.0
+ORD-1233,2024-07-09,north ,Furniture,Executive Desk,2,650.0,10.0,Corporate,Bob Martinez,PayPal,2.0,1170.0
+ORD-1234,2024-11-21, West,Office Supplies,Heavy-Duty Stapler,7,30.0,15.0,Corporate,Bob Martinez,Purchase Order,5.0,178.5
+ORD-1235,2024-05-06,West,Office Supplies,Desk Organizer,7,25.0,0.0,Small Business,Emma Watson,PayPal,1.0,175.0
+ORD-1236,2024-06-01,North,Technology,Mechanical Keyboard,4,95.0,10.0,Corporate,Alice Chen,PayPal,1.0,342.0
+ORD-1237,2024-08-26,South,Technology,Wireless Mouse,7,35.0,5.0,Corporate,Carolyn Vance,Purchase Order,4.0,232.75
+ORD-1238,2024-01-18,West,Furniture,Ergonomic Chair,6,320.0,15.0,Consumer,Alice Chen,Credit Card,3.0,1632.0
+ORD-1239,2024-08-15,South,Technology,Wireless Mouse,7,35.0,5.0,Consumer,Emma Watson,Purchase Order,5.0,232.75
+ORD-1240,2024-03-05,SOUTH ,Technology,Wireless Mouse,4,35.0,10.0,Corporate,Alice Chen,Bank Transfer,2.0,126.0
+ORD-1241,2024-09-21,west,Office Supplies,Heavy-Duty Stapler,1,30.0,0.0,Corporate,David Smith,Credit Card,,30.0
+ORD-1242,2024-02-07,South,Furniture,Conference Table,6,850.0,5.0,Small Business,David Smith,Credit Card,5.0,4845.0
+ORD-1243,2024-12-24,West,Furniture,Filing Cabinet,8,180.0,15.0,Corporate,Alice Chen,PayPal,4.0,1224.0
+ORD-1244,2024-08-12,NORTH,Technology,Noise-Canceling Headphones,7,180.0,15.0,Small Business,Alice Chen,Purchase Order,4.0,1071.0
+ORD-1245,2024-01-22,North,Office Supplies,Standing Mat,5,65.0,10.0,Corporate,Carolyn Vance,Bank Transfer,3.0,292.5
+ORD-1246,2024-02-24, East ,Furniture,Executive Desk,6,650.0,5.0,Corporate,Carolyn Vance,PayPal,3.0,3705.0
+ORD-1247,2024-05-17,West,Furniture,Ergonomic Chair,5,320.0,15.0,Consumer,Bob Martinez,Bank Transfer,4.0,1360.0
+ORD-1248,2024-02-21,NORTH,Technology,Mechanical Keyboard,7,95.0,10.0,Corporate,Alice Chen,Bank Transfer,5.0,598.5
+ORD-1249,2024-08-06,East,Technology,Wireless Mouse,4,35.0,20.0,Small Business,Emma Watson,Purchase Order,4.0,112.0
+ORD-1250,2024-10-01,South,Office Supplies,Desk Organizer,1,25.0,10.0,Small Business,Alice Chen,PayPal,2.0,22.5
+ORD-1251,2024-12-22,West,Office Supplies,Desk Organizer,7,25.0,15.0,Consumer,David Smith,Purchase Order,5.0,148.75
+ORD-1252,2024-06-11,West,Office Supplies,Gel Pen Pack,7,12.0,15.0,Small Business,Emma Watson,PayPal,4.0,71.4
+ORD-1253,2024-05-10,North,Technology,Mechanical Keyboard,7,95.0,15.0,Consumer,Bob Martinez,PayPal,4.0,565.25
+ORD-1254,2024-10-23,west,Office Supplies,Desk Organizer,10,25.0,10.0,Small Business,David Smith,Purchase Order,3.0,225.0
+ORD-1255,2024-07-23,east,Technology,Mechanical Keyboard,6,95.0,15.0,Corporate,Carolyn Vance,Purchase Order,,484.5
+ORD-1256,2024-06-09,North,Office Supplies,Desk Organizer,1,25.0,15.0,Small Business,Emma Watson,Bank Transfer,5.0,21.25
+ORD-1257,2024-01-20,West,Technology,4K Monitor,7,450.0,0.0,Corporate,Alice Chen,Bank Transfer,4.0,3150.0
+ORD-1258,2024-05-27,East,Furniture,Filing Cabinet,2,180.0,15.0,Consumer,Alice Chen,Bank Transfer,5.0,306.0
+ORD-1259,2024-07-23,East,Furniture,Bookshelf,2,140.0,10.0,Small Business,Alice Chen,Bank Transfer,,252.0
+ORD-1260,2024-07-13,West,Furniture,Filing Cabinet,6,180.0,10.0,Consumer,Carolyn Vance,Bank Transfer,4.0,972.0
+ORD-1261,2024-05-08,South,Technology,Laptop Pro,1,1200.0,15.0,Consumer,David Smith,Credit Card,5.0,1020.0
+ORD-1262,2024-07-23,West,Office Supplies,Standing Mat,2,65.0,5.0,Consumer,Carolyn Vance,Purchase Order,5.0,123.5
+ORD-1263,2024-07-07,south,Technology,Laptop Pro,7,1200.0,0.0,Small Business,Bob Martinez,Purchase Order,,8400.0
+ORD-1264,2024-08-23,East,Technology,Wireless Mouse,2,35.0,0.0,Consumer,Emma Watson,PayPal,5.0,70.0
+ORD-1265,2024-06-05,South,Office Supplies,Gel Pen Pack,2,12.0,10.0,Consumer,Bob Martinez,Credit Card,2.0,21.6
+ORD-1266,2024-10-29,West,Technology,4K Monitor,5,450.0,15.0,Corporate,Carolyn Vance,PayPal,3.0,1912.5
+ORD-1267,2024-09-04,South,Office Supplies,Heavy-Duty Stapler,2,30.0,20.0,Corporate,Alice Chen,PayPal,,48.0
+ORD-1268,2024-07-08,West,Office Supplies,Notebook Set,1,18.0,15.0,Consumer,Alice Chen,Bank Transfer,4.0,15.3
+ORD-1269,2024-07-26,west,Office Supplies,Desk Organizer,7,25.0,15.0,Consumer,Emma Watson,PayPal,3.0,148.75
+ORD-1270,2024-02-21,South,Technology,Noise-Canceling Headphones,7,180.0,5.0,Small Business,Emma Watson,Credit Card,4.0,1197.0
+ORD-1271,2024-06-19,South,Technology,Noise-Canceling Headphones,4,180.0,10.0,Corporate,Bob Martinez,PayPal,1.0,648.0
+ORD-1272,2024-09-19,East,Furniture,Ergonomic Chair,4,320.0,20.0,Small Business,Alice Chen,PayPal,1.0,1024.0
+ORD-1273,2024-09-04,east,Technology,Noise-Canceling Headphones,7,180.0,5.0,Consumer,Carolyn Vance,Credit Card,3.0,1197.0
+ORD-1274,2024-01-12,South,Furniture,Ergonomic Chair,4,320.0,5.0,Consumer,Emma Watson,PayPal,4.0,1216.0
+ORD-1275,2024-08-20,north ,Furniture,Executive Desk,4,650.0,0.0,Corporate,Emma Watson,PayPal,5.0,2600.0
+ORD-1276,2024-09-25,West,Furniture,Ergonomic Chair,6,320.0,20.0,Consumer,Alice Chen,Purchase Order,4.0,1536.0
+ORD-1277,2024-10-11,West,Furniture,Conference Table,10,850.0,10.0,Small Business,Bob Martinez,Purchase Order,4.0,7650.0
+ORD-1278,2024-11-17,West,Office Supplies,Notebook Set,3,18.0,0.0,Corporate,David Smith,Purchase Order,4.0,54.0
+ORD-1279,2024-06-27,South,Office Supplies,Notebook Set,5,18.0,10.0,Consumer,Bob Martinez,PayPal,3.0,81.0
+ORD-1280,2024-07-13,EAST,Furniture,Filing Cabinet,6,180.0,15.0,Corporate,Carolyn Vance,Credit Card,3.0,918.0
+ORD-1281,2024-10-18,EAST,Office Supplies,Gel Pen Pack,3,12.0,15.0,Corporate,Bob Martinez,Credit Card,5.0,30.6
+ORD-1282,2024-04-08,West,Technology,Wireless Mouse,7,35.0,20.0,Small Business,Bob Martinez,Bank Transfer,,196.0
+ORD-1283,2024-01-25,East,Office Supplies,Heavy-Duty Stapler,4,30.0,5.0,Corporate,David Smith,Purchase Order,4.0,114.0
+ORD-1284,2024-12-19,north ,Office Supplies,Standing Mat,6,65.0,15.0,Consumer,David Smith,Bank Transfer,2.0,331.5
+ORD-1285,2024-06-16,East,Technology,Noise-Canceling Headphones,5,180.0,0.0,Corporate,Carolyn Vance,Purchase Order,4.0,900.0
+ORD-1286,2024-10-14,West,Furniture,Bookshelf,5,140.0,0.0,Corporate,David Smith,Bank Transfer,1.0,700.0
+ORD-1287,2024-02-04,WEST,Office Supplies,Standing Mat,3,65.0,10.0,Corporate,David Smith,Credit Card,1.0,175.5
+ORD-1288,2024-08-15,South,Furniture,Conference Table,7,850.0,10.0,Consumer,Carolyn Vance,Credit Card,4.0,5355.0
+ORD-1289,2024-08-22,West,Office Supplies,Heavy-Duty Stapler,7,30.0,20.0,Small Business,Emma Watson,Credit Card,1.0,168.0
+ORD-1290,2024-09-04,West,Technology,Laptop Pro,2,1200.0,10.0,Small Business,Emma Watson,PayPal,3.0,2160.0
+ORD-1291,2024-07-22, West,Technology,4K Monitor,6,450.0,20.0,Corporate,Alice Chen,Credit Card,5.0,2160.0
+ORD-1292,2024-05-03,West,Technology,Wireless Mouse,2,35.0,20.0,Small Business,Bob Martinez,Bank Transfer,,56.0
+ORD-1293,2024-02-16,East,Office Supplies,Heavy-Duty Stapler,7,30.0,5.0,Small Business,Emma Watson,PayPal,4.0,199.5
+ORD-1294,2024-09-07,West,Furniture,Filing Cabinet,5,180.0,20.0,Small Business,David Smith,Credit Card,4.0,720.0
+ORD-1295,2024-11-07,West,Office Supplies,Standing Mat,4,65.0,20.0,Small Business,Alice Chen,Purchase Order,5.0,208.0
+ORD-1296,2024-09-20,South,Office Supplies,Heavy-Duty Stapler,1,30.0,0.0,Consumer,David Smith,Bank Transfer,2.0,30.0
+ORD-1297,2024-04-23,West,Furniture,Conference Table,4,850.0,,Consumer,Bob Martinez,Credit Card,4.0,3230.0
+ORD-1298,2024-09-23,SOUTH ,Furniture,Executive Desk,3,650.0,0.0,Small Business,Carolyn Vance,Purchase Order,4.0,1950.0
+ORD-1299,2024-08-13,South,Technology,Mechanical Keyboard,5,95.0,15.0,Consumer,Emma Watson,Purchase Order,3.0,403.75
+ORD-1300,2024-03-21,South,Furniture,Executive Desk,1,650.0,20.0,Corporate,Emma Watson,PayPal,4.0,520.0
+ORD-1301,2024-02-03,West,Furniture,Bookshelf,6,140.0,10.0,Corporate,David Smith,PayPal,2.0,756.0
+ORD-1302,2024-11-05,EAST,Furniture,Filing Cabinet,3,180.0,20.0,Small Business,Bob Martinez,Bank Transfer,4.0,432.0
+ORD-1303,2024-07-15,East,Office Supplies,Heavy-Duty Stapler,4,30.0,5.0,Small Business,Carolyn Vance,Bank Transfer,1.0,114.0
+ORD-1304,2024-03-02,East,Furniture,Bookshelf,4,140.0,15.0,Small Business,Emma Watson,PayPal,4.0,476.0
+ORD-1305,2024-02-03,West,Office Supplies,Desk Organizer,6,25.0,15.0,Small Business,Bob Martinez,PayPal,5.0,127.5
+ORD-1306,2024-05-27,North,Technology,Wireless Mouse,7,35.0,10.0,Small Business,Carolyn Vance,Purchase Order,,220.5
+ORD-1307,2024-11-03,East,Technology,4K Monitor,6,450.0,20.0,Consumer,Carolyn Vance,Bank Transfer,4.0,2160.0
+ORD-1308,2024-02-24,South,Technology,Noise-Canceling Headphones,3,180.0,5.0,Corporate,Emma Watson,Bank Transfer,4.0,513.0
+ORD-1309,2024-02-27,north ,Furniture,Ergonomic Chair,2,320.0,0.0,Small Business,Carolyn Vance,Purchase Order,3.0,640.0
+ORD-1310,2024-03-03,North,Technology,4K Monitor,2,450.0,20.0,Corporate,David Smith,Purchase Order,5.0,720.0
+ORD-1311,2024-08-28,East,Office Supplies,Gel Pen Pack,1,12.0,10.0,Small Business,Alice Chen,Credit Card,4.0,10.8
+ORD-1312,2024-12-25,west,Furniture,Conference Table,9,850.0,0.0,Corporate,David Smith,Bank Transfer,,7650.0
+ORD-1313,2024-06-20,WEST,Technology,Mechanical Keyboard,2,95.0,5.0,Consumer,Carolyn Vance,Credit Card,3.0,180.5
+ORD-1314,2024-01-17,North,Technology,Wireless Mouse,1,35.0,10.0,Small Business,David Smith,Purchase Order,3.0,31.5
+ORD-1315,2024-12-02,South,Technology,Noise-Canceling Headphones,3,180.0,0.0,Small Business,Bob Martinez,Purchase Order,5.0,540.0
+ORD-1316,2024-12-06,north ,Furniture,Filing Cabinet,7,180.0,10.0,Small Business,Emma Watson,Bank Transfer,4.0,1134.0
+ORD-1317,2024-07-12,West,Technology,Noise-Canceling Headphones,2,180.0,15.0,Consumer,Carolyn Vance,Credit Card,4.0,306.0
+ORD-1318,2024-04-30,South,Office Supplies,Desk Organizer,7,25.0,5.0,Small Business,Carolyn Vance,Bank Transfer,4.0,166.25
+ORD-1319,2024-09-01,west,Technology,Wireless Mouse,5,35.0,5.0,Small Business,Carolyn Vance,PayPal,2.0,166.25
+ORD-1320,2024-04-25,North,Office Supplies,Heavy-Duty Stapler,2,30.0,10.0,Consumer,Carolyn Vance,Bank Transfer,4.0,54.0
+ORD-1321,2024-03-28,West,Technology,Laptop Pro,7,1200.0,10.0,Corporate,David Smith,PayPal,3.0,7560.0
+ORD-1322,2024-05-08,EAST,Furniture,Executive Desk,5,650.0,10.0,Consumer,Bob Martinez,Bank Transfer,2.0,2925.0
+ORD-1323,2024-07-12,South,Technology,Mechanical Keyboard,3,95.0,15.0,Consumer,Emma Watson,PayPal,4.0,242.25
+ORD-1324,2024-02-22,WEST,Office Supplies,Heavy-Duty Stapler,4,30.0,20.0,Consumer,Bob Martinez,Bank Transfer,2.0,96.0
+ORD-1325,2024-05-13,North,Furniture,Conference Table,5,850.0,20.0,Small Business,Emma Watson,PayPal,3.0,3400.0
+ORD-1326,2024-11-07,west,Technology,Noise-Canceling Headphones,8,180.0,20.0,Consumer,Bob Martinez,Bank Transfer,4.0,1152.0
+ORD-1327,2024-08-22,west,Technology,Wireless Mouse,1,35.0,0.0,Consumer,Bob Martinez,Purchase Order,5.0,35.0
+ORD-1328,2024-03-15,West,Technology,Noise-Canceling Headphones,5,180.0,0.0,Small Business,Bob Martinez,Purchase Order,3.0,900.0
+ORD-1329,2024-08-22,North,Office Supplies,Heavy-Duty Stapler,2,30.0,20.0,Small Business,Carolyn Vance,Credit Card,2.0,48.0
+ORD-1330,2024-10-01,South,Office Supplies,Standing Mat,4,65.0,20.0,Corporate,Alice Chen,Purchase Order,4.0,208.0
+ORD-1331,2024-10-28,North,Office Supplies,Desk Organizer,3,25.0,0.0,Small Business,Alice Chen,PayPal,3.0,75.0
+ORD-1332,2024-09-21,South,Office Supplies,Gel Pen Pack,2,12.0,15.0,Small Business,David Smith,Purchase Order,5.0,20.4
+ORD-1333,2024-07-07,North,Office Supplies,Notebook Set,4,18.0,20.0,Corporate,Carolyn Vance,Credit Card,,57.6
+ORD-1334,2024-09-08,West,Technology,Noise-Canceling Headphones,3,180.0,20.0,Corporate,Bob Martinez,Credit Card,3.0,432.0
+ORD-1335,2024-02-19,West,Technology,Wireless Mouse,6,35.0,20.0,Small Business,Emma Watson,Purchase Order,4.0,168.0
+ORD-1336,2024-08-25, West,Technology,4K Monitor,6,450.0,10.0,Corporate,Carolyn Vance,Bank Transfer,4.0,2430.0
+ORD-1337,2024-11-22,West,Furniture,Executive Desk,3,650.0,15.0,Consumer,Alice Chen,Bank Transfer,2.0,1657.5
+ORD-1338,2024-03-15,NORTH,Technology,Laptop Pro,6,1200.0,20.0,Corporate,David Smith,Credit Card,2.0,5760.0
+ORD-1339,2024-08-03,West,Technology,Laptop Pro,7,1200.0,15.0,Corporate,Emma Watson,Bank Transfer,4.0,7140.0
+ORD-1340,2024-04-13,East,Technology,4K Monitor,2,450.0,5.0,Consumer,Emma Watson,PayPal,5.0,855.0
+ORD-1341,2024-02-13,East,Furniture,Conference Table,4,850.0,5.0,Small Business,Bob Martinez,Bank Transfer,4.0,3230.0
+ORD-1342,2024-03-18,East,Office Supplies,Standing Mat,5,65.0,0.0,Consumer,Emma Watson,Bank Transfer,4.0,325.0
+ORD-1343,2024-12-26,North,Furniture,Bookshelf,1,140.0,10.0,Consumer,David Smith,PayPal,3.0,126.0
+ORD-1344,2024-05-06, West,Furniture,Bookshelf,5,140.0,5.0,Small Business,David Smith,Bank Transfer,2.0,665.0
+ORD-1345,2024-06-30,South,Furniture,Bookshelf,6,140.0,5.0,Small Business,Bob Martinez,Purchase Order,4.0,798.0
+ORD-1346,2024-05-17, West,Technology,Noise-Canceling Headphones,1,180.0,15.0,Consumer,Emma Watson,Bank Transfer,,153.0
+ORD-1347,2024-10-14,WEST,Office Supplies,Gel Pen Pack,5,12.0,10.0,Consumer,Alice Chen,Purchase Order,2.0,54.0
+ORD-1348,2024-08-27,South,Office Supplies,Desk Organizer,7,25.0,0.0,Small Business,David Smith,Credit Card,4.0,175.0
+ORD-1349,2024-05-05,South,Technology,4K Monitor,7,450.0,15.0,Corporate,Carolyn Vance,PayPal,3.0,2677.5
+ORD-1350,2024-03-31,South,Technology,4K Monitor,6,450.0,0.0,Consumer,David Smith,Bank Transfer,4.0,2700.0
+ORD-1351,2024-03-05,South,Furniture,Conference Table,6,850.0,15.0,Corporate,Emma Watson,PayPal,3.0,4335.0
+ORD-1352,2024-03-02,WEST,Office Supplies,Notebook Set,7,18.0,20.0,Consumer,Carolyn Vance,PayPal,4.0,100.8
+ORD-1353,2024-04-11,WEST,Office Supplies,Standing Mat,2,65.0,15.0,Corporate,David Smith,PayPal,3.0,110.5
+ORD-1354,2024-09-07,East,Technology,Wireless Mouse,2,35.0,15.0,Corporate,Emma Watson,Bank Transfer,3.0,59.5
+ORD-1355,2024-07-07,North,Furniture,Ergonomic Chair,7,320.0,10.0,Consumer,Emma Watson,Purchase Order,4.0,2016.0
+ORD-1356,2024-11-26,West,Office Supplies,Gel Pen Pack,6,12.0,5.0,Small Business,Emma Watson,Bank Transfer,5.0,68.4
+ORD-1357,2024-08-24,EAST,Office Supplies,Heavy-Duty Stapler,5,30.0,10.0,Small Business,David Smith,Purchase Order,,135.0
+ORD-1358,2024-01-23,South,Technology,Wireless Mouse,1,35.0,5.0,Consumer,Emma Watson,Purchase Order,2.0,33.25
+ORD-1359,2024-12-11,North,Technology,Noise-Canceling Headphones,1,180.0,20.0,Corporate,Alice Chen,Credit Card,5.0,144.0
+ORD-1360,2024-04-22,South,Technology,Mechanical Keyboard,5,95.0,5.0,Corporate,Bob Martinez,Credit Card,,451.25
+ORD-1361,2024-04-05,West,Technology,Noise-Canceling Headphones,7,180.0,10.0,Corporate,Emma Watson,Purchase Order,4.0,1134.0
+ORD-1362,2024-07-18,North,Furniture,Bookshelf,5,140.0,0.0,Consumer,Emma Watson,Purchase Order,,700.0
+ORD-1363,2024-04-04,east,Technology,Laptop Pro,3,1200.0,,Small Business,Alice Chen,Purchase Order,2.0,2880.0
+ORD-1364,2024-06-02,North,Technology,Laptop Pro,7,1200.0,20.0,Corporate,Bob Martinez,Bank Transfer,5.0,6720.0
+ORD-1365,2024-11-10,West,Furniture,Conference Table,7,850.0,10.0,Small Business,David Smith,Credit Card,4.0,5355.0
+ORD-1366,2024-02-14,West,Office Supplies,Notebook Set,1,18.0,20.0,Corporate,Bob Martinez,PayPal,5.0,14.4
+ORD-1367,2024-12-25,North,Furniture,Executive Desk,4,650.0,0.0,Small Business,David Smith,Purchase Order,4.0,2600.0
+ORD-1368,2024-12-21,West,Furniture,Bookshelf,4,140.0,0.0,Consumer,Bob Martinez,Credit Card,3.0,560.0
+ORD-1369,2024-10-19,east,Office Supplies,Notebook Set,2,18.0,20.0,Corporate,Emma Watson,Credit Card,4.0,28.8
+ORD-1370,2024-09-30,West,Technology,4K Monitor,3,450.0,10.0,Corporate,Alice Chen,PayPal,1.0,1215.0
+ORD-1371,2024-08-10,north ,Furniture,Conference Table,1,850.0,5.0,Small Business,Alice Chen,Bank Transfer,,807.5
+ORD-1372,2024-01-06,West,Furniture,Ergonomic Chair,6,320.0,0.0,Small Business,Bob Martinez,Bank Transfer,5.0,1920.0
+ORD-1373,2024-01-13, East ,Furniture,Bookshelf,1,140.0,15.0,Consumer,Bob Martinez,Credit Card,4.0,119.0
+ORD-1374,2024-07-04,north ,Furniture,Filing Cabinet,1,180.0,0.0,Small Business,Bob Martinez,Credit Card,4.0,180.0
+ORD-1375,2024-08-18,West,Office Supplies,Heavy-Duty Stapler,6,30.0,10.0,Corporate,Carolyn Vance,Purchase Order,5.0,162.0
+ORD-1376,2024-11-28,West,Office Supplies,Gel Pen Pack,8,12.0,15.0,Small Business,Bob Martinez,Purchase Order,5.0,81.6
+ORD-1377,2024-09-09,East,Technology,Noise-Canceling Headphones,5,180.0,5.0,Consumer,Alice Chen,Credit Card,3.0,855.0
+ORD-1378,2024-11-03,WEST,Office Supplies,Gel Pen Pack,5,12.0,5.0,Consumer,David Smith,PayPal,3.0,57.0
+ORD-1379,2024-06-03,north ,Office Supplies,Desk Organizer,5,25.0,0.0,Small Business,David Smith,PayPal,4.0,125.0
+ORD-1380,2024-01-09,South,Office Supplies,Desk Organizer,7,25.0,0.0,Corporate,David Smith,Purchase Order,4.0,175.0
+ORD-1381,2024-08-15,West,Furniture,Conference Table,2,850.0,0.0,Corporate,Alice Chen,PayPal,4.0,1700.0
+ORD-1382,2024-10-28, East ,Furniture,Executive Desk,3,650.0,15.0,Corporate,Carolyn Vance,Purchase Order,,1657.5
+ORD-1383,2024-11-19,South,Office Supplies,Desk Organizer,2,25.0,20.0,Consumer,Bob Martinez,Purchase Order,5.0,40.0
+ORD-1384,2024-09-26, East ,Technology,4K Monitor,1,450.0,10.0,Small Business,David Smith,Bank Transfer,4.0,405.0
+ORD-1385,2024-08-20,West,Technology,4K Monitor,6,450.0,10.0,Small Business,Carolyn Vance,Purchase Order,5.0,2430.0
+ORD-1386,2024-06-29,East,Technology,Wireless Mouse,6,35.0,5.0,Consumer,David Smith,Bank Transfer,5.0,199.5
+ORD-1387,2024-02-15,South,Office Supplies,Desk Organizer,3,25.0,10.0,Corporate,David Smith,PayPal,2.0,67.5
+ORD-1388,2024-03-15,EAST,Furniture,Bookshelf,5,140.0,15.0,Small Business,David Smith,Bank Transfer,4.0,595.0
+ORD-1389,2024-02-28,South,Office Supplies,Standing Mat,7,65.0,15.0,Small Business,Bob Martinez,Purchase Order,5.0,386.75
+ORD-1390,2024-06-23,West,Office Supplies,Standing Mat,4,65.0,20.0,Corporate,Carolyn Vance,Purchase Order,5.0,208.0
+ORD-1391,2024-10-28,West,Office Supplies,Notebook Set,8,18.0,20.0,Corporate,Emma Watson,Bank Transfer,4.0,115.2
+ORD-1392,2024-10-04, West,Furniture,Conference Table,9,850.0,15.0,Consumer,Bob Martinez,Purchase Order,5.0,6502.5
+ORD-1393,2024-07-05,West,Office Supplies,Desk Organizer,1,25.0,15.0,Corporate,Carolyn Vance,Bank Transfer,4.0,21.25
+ORD-1394,2024-07-05,West,Office Supplies,Gel Pen Pack,7,12.0,15.0,Corporate,David Smith,Purchase Order,2.0,71.4
+ORD-1395,2024-06-14,West,Furniture,Bookshelf,3,140.0,20.0,Corporate,Carolyn Vance,Credit Card,5.0,336.0
+ORD-1396,2024-07-04,EAST,Technology,4K Monitor,6,450.0,5.0,Consumer,Emma Watson,Credit Card,5.0,2565.0
+ORD-1397,2024-07-21,East,Furniture,Bookshelf,5,140.0,15.0,Corporate,Alice Chen,Credit Card,,595.0
+ORD-1398,2024-05-24,South,Office Supplies,Gel Pen Pack,5,12.0,15.0,Small Business,David Smith,Purchase Order,4.0,51.0
+ORD-1399,2024-06-24,South,Furniture,Conference Table,4,850.0,10.0,Corporate,David Smith,Credit Card,,3060.0
+ORD-1400,2024-07-01,North,Office Supplies,Notebook Set,5,18.0,0.0,Consumer,Bob Martinez,PayPal,2.0,90.0
+ORD-1401,2024-05-29,West,Office Supplies,Standing Mat,4,65.0,5.0,Consumer,David Smith,PayPal,3.0,247.0
+ORD-1402,2024-10-22,west,Office Supplies,Desk Organizer,11,25.0,15.0,Small Business,Alice Chen,PayPal,,233.75
+ORD-1403,2024-05-09,North,Technology,Laptop Pro,3,1200.0,10.0,Consumer,Alice Chen,Bank Transfer,2.0,3240.0
+ORD-1404,2024-12-26,South,Furniture,Ergonomic Chair,3,320.0,10.0,Consumer,David Smith,Purchase Order,5.0,864.0
+ORD-1405,2024-10-03,South,Technology,Mechanical Keyboard,6,95.0,15.0,Small Business,Alice Chen,Bank Transfer,5.0,484.5
+ORD-1406,2024-10-05,West,Office Supplies,Heavy-Duty Stapler,5,30.0,0.0,Consumer,Bob Martinez,Bank Transfer,5.0,150.0
+ORD-1407,2024-02-17,North,Office Supplies,Desk Organizer,4,25.0,20.0,Corporate,Carolyn Vance,PayPal,3.0,80.0
+ORD-1408,2024-07-22,NORTH,Technology,Mechanical Keyboard,4,95.0,10.0,Consumer,David Smith,PayPal,4.0,342.0
+ORD-1409,2024-03-22,West,Furniture,Bookshelf,5,140.0,20.0,Corporate,Carolyn Vance,PayPal,5.0,560.0
+ORD-1410,2024-11-09,WEST,Office Supplies,Heavy-Duty Stapler,8,30.0,10.0,Consumer,Emma Watson,Credit Card,4.0,216.0
+ORD-1411,2024-03-06,East,Furniture,Ergonomic Chair,5,320.0,0.0,Corporate,Carolyn Vance,Credit Card,5.0,1600.0
+ORD-1412,2024-07-28,South,Technology,Wireless Mouse,2,35.0,20.0,Small Business,David Smith,Bank Transfer,5.0,56.0
+ORD-1413,2024-09-08,West,Furniture,Bookshelf,6,140.0,5.0,Small Business,Emma Watson,Bank Transfer,5.0,798.0
+ORD-1414,2024-12-03,SOUTH ,Furniture,Ergonomic Chair,7,320.0,5.0,Small Business,David Smith,Credit Card,4.0,2128.0
+ORD-1415,2024-07-28,WEST,Office Supplies,Desk Organizer,4,25.0,5.0,Corporate,David Smith,Purchase Order,4.0,95.0
+ORD-1416,2024-03-18,West,Office Supplies,Notebook Set,6,18.0,15.0,Small Business,Bob Martinez,Credit Card,3.0,91.8
+ORD-1417,2024-10-21,South,Furniture,Executive Desk,6,650.0,10.0,Corporate,Carolyn Vance,Bank Transfer,3.0,3510.0
+ORD-1418,2024-09-19,South,Furniture,Filing Cabinet,3,180.0,15.0,Consumer,David Smith,Credit Card,2.0,459.0
+ORD-1419,2024-08-06,East,Furniture,Executive Desk,3,650.0,20.0,Small Business,Emma Watson,Credit Card,3.0,1560.0
+ORD-1420,2024-12-07,West,Furniture,Bookshelf,11,140.0,0.0,Consumer,Bob Martinez,PayPal,4.0,1540.0
+ORD-1421,2024-07-03,east,Technology,Mechanical Keyboard,2,95.0,10.0,Corporate,David Smith,Credit Card,3.0,171.0
+ORD-1422,2024-06-25,East,Technology,4K Monitor,7,450.0,20.0,Consumer,David Smith,Bank Transfer,4.0,2520.0
+ORD-1423,2024-09-20,South,Furniture,Ergonomic Chair,4,320.0,5.0,Corporate,Emma Watson,PayPal,3.0,1216.0
+ORD-1424,2024-03-21,South,Furniture,Filing Cabinet,4,180.0,10.0,Consumer,Carolyn Vance,PayPal,5.0,648.0
+ORD-1425,2024-07-11,North,Furniture,Filing Cabinet,1,180.0,5.0,Small Business,Alice Chen,PayPal,5.0,171.0
+ORD-1426,2024-02-08,South,Furniture,Ergonomic Chair,7,320.0,5.0,Corporate,Carolyn Vance,Bank Transfer,4.0,2128.0
+ORD-1427,2024-03-05,West,Furniture,Bookshelf,2,140.0,5.0,Consumer,Carolyn Vance,Purchase Order,4.0,266.0
+ORD-1428,2024-12-20,West,Office Supplies,Notebook Set,11,18.0,0.0,Small Business,Emma Watson,PayPal,2.0,198.0
+ORD-1429,2024-07-12,west,Furniture,Filing Cabinet,1,180.0,15.0,Small Business,Emma Watson,Credit Card,5.0,153.0
+ORD-1430,2024-02-08,West,Furniture,Executive Desk,4,650.0,10.0,Corporate,Emma Watson,Purchase Order,5.0,2340.0
+ORD-1431,2024-10-17,West,Technology,Mechanical Keyboard,8,95.0,,Small Business,Carolyn Vance,PayPal,5.0,684.0
+ORD-1432,2024-11-24,WEST,Furniture,Conference Table,7,850.0,15.0,Small Business,Alice Chen,Credit Card,2.0,5057.5
+ORD-1433,2024-04-27,North,Technology,Mechanical Keyboard,3,95.0,0.0,Corporate,David Smith,Purchase Order,4.0,285.0
+ORD-1434,2024-04-28,SOUTH ,Technology,Mechanical Keyboard,6,95.0,5.0,Consumer,Carolyn Vance,Bank Transfer,5.0,541.5
+ORD-1435,2024-12-22,East,Office Supplies,Desk Organizer,5,25.0,0.0,Small Business,Bob Martinez,Credit Card,4.0,125.0
+ORD-1436,2024-07-10,SOUTH ,Office Supplies,Standing Mat,4,65.0,15.0,Consumer,Alice Chen,Credit Card,4.0,221.0
+ORD-1437,2024-12-12,South,Technology,4K Monitor,7,450.0,20.0,Corporate,Emma Watson,Purchase Order,3.0,2520.0
+ORD-1438,2024-06-25,east,Technology,Laptop Pro,7,1200.0,0.0,Small Business,Bob Martinez,Purchase Order,3.0,8400.0
+ORD-1439,2024-06-30,West,Technology,4K Monitor,3,450.0,0.0,Consumer,Alice Chen,Credit Card,2.0,1350.0
+ORD-1440,2024-06-30,east,Office Supplies,Standing Mat,6,65.0,5.0,Small Business,Bob Martinez,Bank Transfer,4.0,370.5
+ORD-1441,2024-04-12,North,Technology,Noise-Canceling Headphones,4,180.0,20.0,Consumer,Bob Martinez,Purchase Order,4.0,576.0
+ORD-1442,2024-08-27,South,Office Supplies,Gel Pen Pack,7,12.0,15.0,Consumer,David Smith,Bank Transfer,2.0,71.4
+ORD-1443,2024-02-26,South,Technology,Laptop Pro,7,1200.0,0.0,Consumer,David Smith,PayPal,2.0,8400.0
+ORD-1444,2024-03-06,South,Office Supplies,Standing Mat,3,65.0,5.0,Small Business,Alice Chen,Bank Transfer,,185.25
+ORD-1445,2024-06-28,East,Furniture,Conference Table,6,850.0,0.0,Consumer,Carolyn Vance,Bank Transfer,3.0,5100.0
+ORD-1446,2024-11-12,west,Furniture,Conference Table,3,850.0,10.0,Consumer,Alice Chen,Bank Transfer,3.0,2295.0
+ORD-1447,2024-06-24,North,Office Supplies,Notebook Set,3,18.0,5.0,Small Business,Emma Watson,Credit Card,3.0,51.3
+ORD-1448,2024-05-26,East,Furniture,Executive Desk,3,650.0,10.0,Corporate,David Smith,Purchase Order,5.0,1755.0
+ORD-1449,2024-05-16,south,Office Supplies,Heavy-Duty Stapler,7,30.0,15.0,Corporate,Alice Chen,Credit Card,4.0,178.5
+ORD-1450,2024-07-10,South,Technology,Wireless Mouse,6,35.0,0.0,Corporate,David Smith,PayPal,4.0,210.0
+ORD-1451,2024-08-22,WEST,Furniture,Conference Table,4,850.0,15.0,Consumer,David Smith,Credit Card,3.0,2890.0
+ORD-1452,2024-03-20,South,Furniture,Conference Table,1,850.0,10.0,Corporate,Carolyn Vance,Credit Card,5.0,765.0
+ORD-1453,2024-09-18,south,Furniture,Ergonomic Chair,5,320.0,20.0,Small Business,David Smith,Credit Card,4.0,1280.0
+ORD-1454,2024-05-15,South,Office Supplies,Notebook Set,6,18.0,,Corporate,Alice Chen,Purchase Order,5.0,108.0
+ORD-1455,2024-09-05,North,Technology,Mechanical Keyboard,3,95.0,10.0,Consumer,Bob Martinez,Credit Card,4.0,256.5
+ORD-1456,2024-07-08,North,Technology,4K Monitor,7,450.0,5.0,Small Business,Carolyn Vance,PayPal,4.0,2992.5
+ORD-1457,2024-05-19,South,Technology,Wireless Mouse,2,35.0,10.0,Consumer,Alice Chen,Credit Card,3.0,63.0
+ORD-1458,2024-01-25,East,Office Supplies,Notebook Set,7,18.0,20.0,Corporate,Carolyn Vance,Credit Card,4.0,100.8
+ORD-1459,2024-10-11,North,Office Supplies,Notebook Set,2,18.0,15.0,Consumer,Bob Martinez,PayPal,5.0,30.6
+ORD-1460,2024-06-06,North,Technology,Wireless Mouse,6,35.0,20.0,Consumer,Alice Chen,Bank Transfer,4.0,168.0
+ORD-1461,2024-12-23,West,Furniture,Conference Table,3,850.0,0.0,Corporate,Alice Chen,Purchase Order,3.0,2550.0
+ORD-1462,2024-10-07,South,Office Supplies,Notebook Set,2,18.0,0.0,Consumer,David Smith,Bank Transfer,4.0,36.0
+ORD-1463,2024-09-04,West,Office Supplies,Gel Pen Pack,1,12.0,10.0,Small Business,Alice Chen,PayPal,4.0,10.8
+ORD-1464,2024-05-20,North,Technology,Noise-Canceling Headphones,5,180.0,5.0,Corporate,Emma Watson,Credit Card,3.0,855.0
+ORD-1465,2024-08-27,West,Office Supplies,Desk Organizer,3,25.0,10.0,Small Business,Carolyn Vance,Credit Card,4.0,67.5
+ORD-1466,2024-10-30,West,Furniture,Bookshelf,10,140.0,5.0,Small Business,Emma Watson,PayPal,4.0,1330.0
+ORD-1467,2024-09-01,South,Furniture,Conference Table,1,850.0,15.0,Small Business,Emma Watson,Purchase Order,5.0,722.5
+ORD-1468,2024-04-16,south,Technology,Noise-Canceling Headphones,1,180.0,5.0,Corporate,David Smith,Credit Card,4.0,171.0
+ORD-1469,2024-11-21, West,Technology,Noise-Canceling Headphones,3,180.0,0.0,Small Business,Alice Chen,Purchase Order,4.0,540.0
+ORD-1470,2024-10-04,West,Furniture,Filing Cabinet,10,180.0,20.0,Corporate,David Smith,Purchase Order,5.0,1440.0
+ORD-1471,2024-07-22,East,Technology,4K Monitor,2,450.0,0.0,Corporate,Bob Martinez,Purchase Order,5.0,900.0
+ORD-1472,2024-07-04,West,Furniture,Filing Cabinet,3,180.0,0.0,Consumer,Alice Chen,Bank Transfer,5.0,540.0
+ORD-1473,2024-12-09,West,Furniture,Bookshelf,4,140.0,20.0,Corporate,David Smith,Bank Transfer,4.0,448.0
+ORD-1474,2024-03-12,East,Technology,Wireless Mouse,2,35.0,10.0,Small Business,Carolyn Vance,PayPal,1.0,63.0
+ORD-1475,2024-01-21,South,Office Supplies,Standing Mat,2,65.0,0.0,Corporate,Bob Martinez,Credit Card,5.0,130.0
+ORD-1476,2024-08-13,SOUTH ,Technology,Laptop Pro,1,1200.0,15.0,Small Business,Carolyn Vance,Purchase Order,5.0,1020.0
+ORD-1477,2024-10-15,WEST,Technology,Noise-Canceling Headphones,5,180.0,5.0,Small Business,Carolyn Vance,Purchase Order,2.0,855.0
+ORD-1478,2024-05-26,North,Office Supplies,Desk Organizer,6,25.0,5.0,Consumer,Carolyn Vance,Credit Card,4.0,142.5
+ORD-1479,2024-05-14,South,Technology,Wireless Mouse,7,35.0,0.0,Consumer,Bob Martinez,PayPal,2.0,245.0
+ORD-1480,2024-12-27,west,Office Supplies,Heavy-Duty Stapler,11,30.0,10.0,Small Business,Bob Martinez,Credit Card,1.0,297.0
+ORD-1481,2024-11-22,South,Office Supplies,Notebook Set,7,18.0,0.0,Small Business,Alice Chen,Bank Transfer,2.0,126.0
+ORD-1482,2024-03-10,North,Technology,Laptop Pro,4,1200.0,5.0,Corporate,Bob Martinez,Purchase Order,1.0,4560.0
+ORD-1483,2024-04-01,EAST,Office Supplies,Desk Organizer,3,25.0,0.0,Corporate,Alice Chen,Bank Transfer,3.0,75.0
+ORD-1484,2024-11-22,North,Furniture,Bookshelf,4,140.0,10.0,Corporate,Alice Chen,Purchase Order,4.0,504.0
+ORD-1485,2024-12-12,west,Technology,4K Monitor,4,450.0,15.0,Small Business,Alice Chen,Purchase Order,4.0,1530.0
+ORD-1486,2024-08-22,South,Furniture,Bookshelf,3,140.0,10.0,Corporate,Bob Martinez,PayPal,3.0,378.0
+ORD-1487,2024-06-24,south,Office Supplies,Notebook Set,3,18.0,0.0,Consumer,Emma Watson,Bank Transfer,1.0,54.0
+ORD-1488,2024-03-21,West,Furniture,Filing Cabinet,5,180.0,15.0,Consumer,David Smith,Credit Card,4.0,765.0
+ORD-1489,2024-11-02,West,Technology,Wireless Mouse,8,35.0,15.0,Corporate,Emma Watson,Bank Transfer,4.0,238.0
+ORD-1490,2024-02-03,north ,Furniture,Conference Table,5,850.0,15.0,Consumer,Carolyn Vance,Purchase Order,,3612.5
+ORD-1491,2024-04-28,east,Furniture,Bookshelf,5,140.0,20.0,Consumer,Carolyn Vance,Purchase Order,5.0,560.0
+ORD-1492,2024-02-25,North,Office Supplies,Gel Pen Pack,1,12.0,10.0,Consumer,Bob Martinez,Credit Card,4.0,10.8
+ORD-1493,2024-08-17,West,Office Supplies,Desk Organizer,3,25.0,20.0,Small Business,Emma Watson,Bank Transfer,4.0,60.0
+ORD-1494,2024-10-12,West,Technology,Laptop Pro,4,1200.0,5.0,Small Business,Emma Watson,Credit Card,4.0,4560.0
+ORD-1495,2024-01-03,West,Technology,Noise-Canceling Headphones,4,180.0,10.0,Corporate,Bob Martinez,Bank Transfer,3.0,648.0
+ORD-1496,2024-08-19,East,Furniture,Filing Cabinet,4,180.0,20.0,Corporate,Carolyn Vance,Bank Transfer,5.0,576.0
+ORD-1497,2024-02-22, West,Furniture,Ergonomic Chair,7,320.0,20.0,Small Business,Bob Martinez,Purchase Order,5.0,1792.0
+ORD-1498,2024-05-09,NORTH,Technology,Laptop Pro,5,1200.0,5.0,Consumer,Bob Martinez,Credit Card,5.0,5700.0
+ORD-1499,2024-12-15,West,Furniture,Bookshelf,10,140.0,20.0,Corporate,Bob Martinez,PayPal,3.0,1120.0
+ORD-1500,2024-07-13,East,Furniture,Ergonomic Chair,6,320.0,0.0,Corporate,Bob Martinez,Bank Transfer,4.0,1920.0
+ORD-1501,2024-05-02,East,Technology,Noise-Canceling Headphones,1,180.0,0.0,Small Business,David Smith,Credit Card,4.0,180.0
+ORD-1502,2024-02-13,East,Office Supplies,Standing Mat,5,65.0,5.0,Corporate,David Smith,Purchase Order,5.0,308.75
+ORD-1503,2024-09-29,South,Furniture,Filing Cabinet,5,180.0,20.0,Consumer,Emma Watson,PayPal,4.0,720.0
+ORD-1504,2024-11-26,West,Technology,Noise-Canceling Headphones,3,180.0,10.0,Consumer,Carolyn Vance,Bank Transfer,4.0,486.0
+ORD-1505,2024-06-04,West,Technology,Laptop Pro,5,1200.0,20.0,Corporate,Bob Martinez,PayPal,4.0,4800.0
+ORD-1506,2024-02-09,north ,Furniture,Ergonomic Chair,2,320.0,15.0,Corporate,Carolyn Vance,Credit Card,4.0,544.0
+ORD-1507,2024-12-10,South,Technology,Wireless Mouse,6,35.0,,Consumer,Carolyn Vance,Purchase Order,4.0,210.0
+ORD-1508,2024-11-01, West,Technology,Wireless Mouse,5,35.0,0.0,Small Business,Carolyn Vance,Credit Card,3.0,175.0
+ORD-1509,2024-04-02,North,Furniture,Executive Desk,1,650.0,15.0,Small Business,David Smith,Bank Transfer,4.0,552.5
+ORD-1510,2024-12-29,East,Office Supplies,Notebook Set,5,18.0,20.0,Small Business,Alice Chen,Purchase Order,5.0,72.0
+ORD-1511,2024-11-26,West,Furniture,Ergonomic Chair,9,320.0,0.0,Corporate,Carolyn Vance,Credit Card,4.0,2880.0
+ORD-1512,2024-08-28,North,Office Supplies,Standing Mat,6,65.0,0.0,Small Business,Bob Martinez,Purchase Order,1.0,390.0
+ORD-1513,2024-08-12,North,Technology,Laptop Pro,2,1200.0,10.0,Consumer,Emma Watson,Purchase Order,1.0,2160.0
+ORD-1514,2024-01-06,West,Furniture,Executive Desk,2,650.0,5.0,Consumer,David Smith,Bank Transfer,2.0,1235.0
+ORD-1515,2024-12-24, West,Technology,Laptop Pro,4,1200.0,5.0,Small Business,Emma Watson,PayPal,5.0,4560.0
+ORD-1516,2024-10-13,WEST,Furniture,Filing Cabinet,4,180.0,0.0,Corporate,David Smith,Purchase Order,3.0,720.0
+ORD-1517,2024-09-28,EAST,Technology,Laptop Pro,1,1200.0,0.0,Small Business,Alice Chen,PayPal,4.0,1200.0
+ORD-1518,2024-12-13,north ,Furniture,Conference Table,3,850.0,0.0,Corporate,Bob Martinez,PayPal,4.0,2550.0
+ORD-1519,2024-04-16,North,Technology,Mechanical Keyboard,6,95.0,10.0,Small Business,David Smith,Purchase Order,4.0,513.0
+ORD-1520,2024-08-07,North,Furniture,Filing Cabinet,4,180.0,20.0,Small Business,Bob Martinez,PayPal,4.0,576.0
+ORD-1521,2024-07-13,SOUTH ,Office Supplies,Standing Mat,6,65.0,15.0,Corporate,Carolyn Vance,Purchase Order,4.0,331.5
+ORD-1522,2024-02-02,SOUTH ,Office Supplies,Standing Mat,2,65.0,10.0,Consumer,Alice Chen,Bank Transfer,4.0,117.0
+ORD-1523,2024-09-28,North,Furniture,Executive Desk,1,650.0,10.0,Consumer,David Smith,Bank Transfer,1.0,585.0
+ORD-1524,2024-12-21,west,Furniture,Executive Desk,8,650.0,20.0,Consumer,David Smith,Bank Transfer,5.0,4160.0
+ORD-1525,2024-05-23,North,Office Supplies,Standing Mat,3,65.0,15.0,Consumer,Alice Chen,Bank Transfer,4.0,165.75
+ORD-1526,2024-09-26,South,Technology,Mechanical Keyboard,2,95.0,5.0,Corporate,Bob Martinez,Bank Transfer,5.0,180.5
+ORD-1527,2024-05-13,North,Technology,Mechanical Keyboard,5,95.0,15.0,Corporate,Bob Martinez,PayPal,2.0,403.75
+ORD-1528,2024-06-21,NORTH,Office Supplies,Desk Organizer,4,25.0,15.0,Consumer,David Smith,PayPal,4.0,85.0
+ORD-1529,2024-04-19,west,Office Supplies,Heavy-Duty Stapler,4,30.0,0.0,Consumer,Emma Watson,Purchase Order,2.0,120.0
+ORD-1530,2024-02-05,South,Technology,Mechanical Keyboard,1,95.0,5.0,Consumer,Emma Watson,Credit Card,2.0,90.25
+ORD-1531,2024-10-11,East,Technology,Noise-Canceling Headphones,7,180.0,20.0,Small Business,David Smith,PayPal,4.0,1008.0
+ORD-1532,2024-10-21,West,Office Supplies,Notebook Set,4,18.0,0.0,Corporate,Carolyn Vance,Purchase Order,4.0,72.0
+ORD-1533,2024-07-15,West,Technology,Noise-Canceling Headphones,2,180.0,0.0,Small Business,Carolyn Vance,Bank Transfer,3.0,360.0
+ORD-1534,2024-08-26,East,Technology,Mechanical Keyboard,6,95.0,10.0,Corporate,Carolyn Vance,PayPal,3.0,513.0
+ORD-1535,2024-12-07,North,Office Supplies,Standing Mat,7,65.0,5.0,Corporate,Carolyn Vance,Purchase Order,2.0,432.25
+ORD-1536,2024-06-23,West,Office Supplies,Standing Mat,4,65.0,20.0,Consumer,Alice Chen,Bank Transfer,4.0,208.0
+ORD-1537,2024-06-10,West,Office Supplies,Gel Pen Pack,3,12.0,15.0,Consumer,Carolyn Vance,Credit Card,4.0,30.6
+ORD-1538,2024-07-06,North,Furniture,Ergonomic Chair,5,320.0,10.0,Consumer,Emma Watson,Purchase Order,3.0,1440.0
+ORD-1539,2024-05-18,north ,Technology,Noise-Canceling Headphones,2,180.0,5.0,Corporate,Bob Martinez,Credit Card,1.0,342.0
+ORD-1540,2024-04-23, West,Technology,Laptop Pro,4,1200.0,0.0,Small Business,Bob Martinez,PayPal,4.0,4800.0
+ORD-1541,2024-07-14,West,Office Supplies,Notebook Set,6,18.0,0.0,Consumer,Alice Chen,Bank Transfer,5.0,108.0
+ORD-1542,2024-09-03,West,Office Supplies,Notebook Set,1,18.0,5.0,Small Business,Emma Watson,PayPal,4.0,17.1
+ORD-1543,2024-12-21,east,Office Supplies,Gel Pen Pack,5,12.0,0.0,Small Business,Alice Chen,Purchase Order,3.0,60.0
+ORD-1544,2024-10-21,South,Technology,4K Monitor,1,450.0,5.0,Consumer,Bob Martinez,Bank Transfer,4.0,427.5
+ORD-1545,2024-12-22,north ,Office Supplies,Notebook Set,3,18.0,15.0,Corporate,Bob Martinez,Credit Card,5.0,45.9
+ORD-1546,2024-09-22,East,Technology,Wireless Mouse,5,35.0,10.0,Small Business,David Smith,PayPal,4.0,157.5
+ORD-1547,2024-08-28,South,Office Supplies,Standing Mat,4,65.0,15.0,Small Business,Emma Watson,Purchase Order,4.0,221.0
+ORD-1548,2024-05-22,North,Furniture,Executive Desk,4,650.0,,Consumer,Carolyn Vance,PayPal,5.0,2080.0
+ORD-1549,2024-12-01,East,Office Supplies,Desk Organizer,1,25.0,10.0,Consumer,Carolyn Vance,PayPal,3.0,22.5
+ORD-1550,2024-07-13,SOUTH ,Office Supplies,Standing Mat,1,65.0,5.0,Consumer,Bob Martinez,Credit Card,4.0,61.75
+ORD-1551,2024-06-08,East,Furniture,Bookshelf,4,140.0,5.0,Consumer,Alice Chen,Purchase Order,4.0,532.0
+ORD-1552,2024-11-27, West,Office Supplies,Standing Mat,3,65.0,,Consumer,Alice Chen,Bank Transfer,5.0,165.75
+ORD-1553,2024-12-22,west,Office Supplies,Gel Pen Pack,4,12.0,10.0,Consumer,Carolyn Vance,Bank Transfer,4.0,43.2
+ORD-1554,2024-04-12,South,Furniture,Conference Table,1,850.0,10.0,Corporate,David Smith,Bank Transfer,4.0,765.0
+ORD-1555,2024-01-21,South,Furniture,Filing Cabinet,5,180.0,10.0,Consumer,Alice Chen,Bank Transfer,4.0,810.0
+ORD-1556,2024-06-03,East,Office Supplies,Gel Pen Pack,6,12.0,15.0,Small Business,Carolyn Vance,PayPal,4.0,61.2
+ORD-1557,2024-06-05,West,Furniture,Filing Cabinet,4,180.0,0.0,Small Business,Alice Chen,Credit Card,5.0,720.0
+ORD-1558,2024-11-03,West,Office Supplies,Gel Pen Pack,4,12.0,20.0,Small Business,David Smith,Credit Card,5.0,38.4
+ORD-1559,2024-08-11,South,Technology,4K Monitor,3,450.0,10.0,Small Business,Emma Watson,Purchase Order,3.0,1215.0
+ORD-1560,2024-12-27,South,Technology,Wireless Mouse,6,35.0,0.0,Small Business,Carolyn Vance,Bank Transfer,3.0,210.0
+ORD-1561,2024-11-18,West,Office Supplies,Desk Organizer,10,25.0,10.0,Corporate,Bob Martinez,Bank Transfer,5.0,225.0
+ORD-1562,2024-10-08,West,Office Supplies,Desk Organizer,9,25.0,15.0,Consumer,David Smith,Purchase Order,5.0,191.25
+ORD-1563,2024-06-07,West,Office Supplies,Notebook Set,4,18.0,0.0,Corporate,Emma Watson,Bank Transfer,5.0,72.0
+ORD-1564,2024-09-09,North,Furniture,Filing Cabinet,2,180.0,10.0,Consumer,Bob Martinez,Credit Card,3.0,324.0
+ORD-1565,2024-09-16,South,Furniture,Executive Desk,1,650.0,5.0,Consumer,Carolyn Vance,PayPal,4.0,617.5
+ORD-1566,2024-12-30,West,Technology,Laptop Pro,6,1200.0,20.0,Small Business,Bob Martinez,Credit Card,3.0,5760.0
+ORD-1567,2024-12-21,West,Technology,Wireless Mouse,9,35.0,20.0,Consumer,Emma Watson,PayPal,4.0,252.0
+ORD-1568,2024-05-02,East,Office Supplies,Gel Pen Pack,3,12.0,15.0,Small Business,Bob Martinez,Bank Transfer,2.0,30.6
+ORD-1569,2024-01-04,South,Office Supplies,Desk Organizer,5,25.0,5.0,Consumer,Bob Martinez,Bank Transfer,4.0,118.75
+ORD-1570,2024-04-30,South,Furniture,Executive Desk,2,650.0,0.0,Small Business,Alice Chen,Purchase Order,5.0,1300.0
+ORD-1571,2024-08-29,North,Furniture,Filing Cabinet,5,180.0,20.0,Corporate,Alice Chen,Credit Card,3.0,720.0
+ORD-1572,2024-07-31,West,Technology,Laptop Pro,3,1200.0,15.0,Small Business,Alice Chen,PayPal,4.0,3060.0
+ORD-1573,2024-10-13,West,Office Supplies,Gel Pen Pack,9,12.0,0.0,Small Business,David Smith,Credit Card,5.0,108.0
+ORD-1574,2024-06-23,East,Furniture,Conference Table,4,850.0,20.0,Consumer,Bob Martinez,Purchase Order,5.0,2720.0
+ORD-1575,2024-10-07,North,Technology,Noise-Canceling Headphones,3,180.0,10.0,Corporate,Alice Chen,Purchase Order,4.0,486.0
+ORD-1576,2024-09-04,South,Technology,Noise-Canceling Headphones,3,180.0,10.0,Consumer,Bob Martinez,PayPal,2.0,486.0
+ORD-1577,2024-05-05,East,Furniture,Bookshelf,7,140.0,5.0,Corporate,Emma Watson,Purchase Order,3.0,931.0
+ORD-1578,2024-07-14, East ,Technology,Mechanical Keyboard,2,95.0,5.0,Corporate,Alice Chen,Credit Card,5.0,180.5
+ORD-1579,2024-11-18,South,Technology,Noise-Canceling Headphones,5,180.0,0.0,Consumer,Alice Chen,Credit Card,,900.0
+ORD-1580,2024-09-10,West,Office Supplies,Gel Pen Pack,6,12.0,10.0,Small Business,David Smith,Credit Card,4.0,64.8
+ORD-1581,2024-09-07,North,Technology,4K Monitor,7,450.0,10.0,Small Business,Carolyn Vance,Purchase Order,3.0,2835.0
+ORD-1582,2024-02-22,North,Furniture,Executive Desk,4,650.0,0.0,Corporate,Bob Martinez,Bank Transfer,3.0,2600.0
+ORD-1583,2024-03-31,West,Office Supplies,Standing Mat,1,65.0,20.0,Small Business,Alice Chen,PayPal,5.0,52.0
+ORD-1584,2024-01-14,north ,Office Supplies,Gel Pen Pack,3,12.0,15.0,Small Business,David Smith,PayPal,3.0,30.6
+ORD-1585,2024-06-23,west,Office Supplies,Notebook Set,7,18.0,5.0,Corporate,Bob Martinez,Credit Card,,119.7
+ORD-1586,2024-12-21,West,Technology,Laptop Pro,4,1200.0,20.0,Small Business,Emma Watson,Purchase Order,5.0,3840.0
+ORD-1587,2024-01-06,West,Technology,Noise-Canceling Headphones,2,180.0,10.0,Consumer,Alice Chen,Bank Transfer,,324.0
+ORD-1588,2024-11-27,West,Office Supplies,Notebook Set,7,18.0,15.0,Small Business,Alice Chen,Credit Card,2.0,107.1
+ORD-1589,2024-07-04,north ,Office Supplies,Standing Mat,4,65.0,20.0,Consumer,Emma Watson,Bank Transfer,5.0,208.0
+ORD-1590,2024-08-09,north ,Furniture,Filing Cabinet,6,180.0,15.0,Consumer,Bob Martinez,Purchase Order,5.0,918.0
+ORD-1591,2024-05-08,SOUTH ,Office Supplies,Notebook Set,6,18.0,20.0,Consumer,Alice Chen,Credit Card,,86.4
+ORD-1592,2024-10-07,West,Furniture,Ergonomic Chair,3,320.0,15.0,Corporate,Alice Chen,Purchase Order,5.0,816.0
+ORD-1593,2024-05-18, East ,Office Supplies,Gel Pen Pack,7,12.0,10.0,Corporate,Emma Watson,Bank Transfer,,75.6
+ORD-1594,2024-08-03,West,Furniture,Bookshelf,4,140.0,5.0,Corporate,David Smith,Purchase Order,4.0,532.0
+ORD-1016,2024-07-21,East,Technology,Noise-Canceling Headphones,3,180.0,20.0,Small Business,Emma Watson,Purchase Order,4.0,432.0
+ORD-1068,2024-01-31,North,Office Supplies,Heavy-Duty Stapler,5,30.0,10.0,Small Business,Bob Martinez,Purchase Order,4.0,135.0
+ORD-1121,2024-10-30,south,Furniture,Conference Table,1,850.0,15.0,Corporate,Emma Watson,Bank Transfer,4.0,722.5
+ORD-1231,2024-05-14,West,Furniture,Conference Table,5,850.0,15.0,Small Business,David Smith,Purchase Order,,3612.5
+ORD-1346,2024-05-17, West,Technology,Noise-Canceling Headphones,1,180.0,15.0,Consumer,Emma Watson,Bank Transfer,,153.0
+ORD-1481,2024-11-22,South,Office Supplies,Notebook Set,7,18.0,0.0,Small Business,Alice Chen,Bank Transfer,2.0,126.0
