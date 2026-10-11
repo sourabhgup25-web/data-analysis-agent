@@ -299,6 +299,7 @@ class DataAgent:
                         fig.savefig(plot_path, dpi=150, bbox_inches="tight")
                         saved_plots.append(str(plot_path))
                     plt.close("all")
+            self._last_saved_plots = list(saved_plots)
 
         except Exception:
             tb = traceback.format_exc().strip().splitlines()
@@ -357,6 +358,7 @@ class DataAgent:
         history_snapshot = copy.deepcopy(self.messages)
 
         current_tool_calls_record = []
+        current_turn_plots = []
         self.messages.append({"role": "user", "content": question})
 
         try:
@@ -411,6 +413,8 @@ class DataAgent:
                         elif tool_name == "run_python":
                             code_to_run = args.get("code", "")
                             result = self.run_python(code_to_run)
+                            saved = getattr(self, "_last_saved_plots", [])
+                            current_turn_plots.extend(saved)
                         else:
                             result = f"Unknown tool: '{tool_name}'."
 
@@ -442,6 +446,7 @@ class DataAgent:
                     return {
                         "answer": final_answer,
                         "tool_calls": current_tool_calls_record,
+                        "plots": current_turn_plots,
                     }
 
             # Loop reached 10 steps without terminating
@@ -453,6 +458,7 @@ class DataAgent:
             return {
                 "answer": limit_msg,
                 "tool_calls": current_tool_calls_record,
+                "plots": current_turn_plots,
             }
 
         except Exception as e:
