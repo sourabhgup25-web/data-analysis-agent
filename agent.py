@@ -228,7 +228,7 @@ class DataAgent:
             lines.append(df[num_cols].describe().to_string())
 
         # Top values for categorical/text columns
-        text_cols = df.select_dtypes(include=["object", "category"]).columns
+        text_cols = df.select_dtypes(include=["object", "str", "category"]).columns
         if len(text_cols) > 0:
             lines.append("\nTop Values for Text/Categorical Columns:")
             for col in text_cols[:8]:
